@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Cadse update site (version 2.3)" url="http://cadse.imag.fr/">
+   <description name="Cadse update site (version for septembre 2009)" url="http://cadse.imag.fr/">
       CADSEg is a project of the Adele team, in Grenoble University (LIG), France. CADSEg is an editor and a generator for CADSEs - Computer Aided Domain Specific Engineering environments. Through dedicated editors and models, CADSEg provides support for specific CADSE definitions, i.e. the domain concepts, the mapping toward Eclipse, the interaction wizards and so on.
    </description>
    <feature url="features/Feature.Cadse.ipojo_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo" version="1.4.0.qualifier">
@@ -15,6 +15,13 @@
    <feature url="features/Feature.Cadse.Cadseg.sdk_2.3.0.qualifier.jar" id="Feature.Cadse.Cadseg.sdk" version="2.3.0.qualifier">
       <category name="Cadse2.3"/>
    </feature>
+   <feature url="features/Feature.Cadse.GraphicTests_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests" version="1.0.0.qualifier">
+      <category name="test"/>
+   </feature>
+   <feature url="features/Feature.Cadse.GraphicTests.sdk_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests.sdk" version="1.0.0.qualifier">
+      <category name="test"/>
+   </feature>
    <category-def name="Cadse2.3" label="Cadse 2.3"/>
    <category-def name="ipojo1.4.0" label="ipojo 1.4.0"/>
+   <category-def name="test" label="Test"/>
 </site>
