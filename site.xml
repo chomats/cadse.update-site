@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Adele Cadse 2.2 update site">
+      The cadse of Adele Team update site. See http://cadse.imag.fr
+   </description>
+   <feature url="features/Feature.Cadse.ipojo_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo" version="1.4.0.qualifier">
+      <category name="ipojo1.4"/>
+   </feature>
+   <feature url="features/Feature.Cadse.ipojo.sdk_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo.sdk" version="1.4.0.qualifier">
+      <category name="ipojo1.4"/>
+   </feature>
+   <feature url="features/Feature.Cadse.Cadseg_2.2.0.qualifier.jar" id="Feature.Cadse.Cadseg" version="2.2.0.qualifier">
+      <category name="cadse2.2"/>
+   </feature>
+   <feature url="features/Feature.Cadse.Cadseg.sdk_2.2.0.qualifier.jar" id="Feature.Cadse.Cadseg.sdk" version="2.2.0.qualifier">
+      <category name="cadse2.2"/>
+   </feature>
+   <category-def name="cadse2.2" label="Cadse 2.2"/>
+   <category-def name="ipojo1.4" label="ipojo 1.4"/>
+</site>
