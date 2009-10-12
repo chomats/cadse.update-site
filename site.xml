@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Adele Cadse 2.2 update site">
-      The cadse of Adele Team update site. See http://cadse.imag.fr
+   <description name="Cadse update site (version 2.3)" url="http://cadse.imag.fr/">
+      CADSEg is a project of the Adele team, in Grenoble University (LIG), France. CADSEg is an editor and a generator for CADSEs - Computer Aided Domain Specific Engineering environments. Through dedicated editors and models, CADSEg provides support for specific CADSE definitions, i.e. the domain concepts, the mapping toward Eclipse, the interaction wizards and so on.
    </description>
-   <feature url="features/Feature.Cadse.ipojo_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo" version="1.4.0.qualifier">
-      <category name="ipojo1.4"/>
+   <feature url="features/Feature.Cadse.ipojo_1.2.0.200908261548.jar" id="Feature.Cadse.ipojo" version="1.2.0.200908261548">
+      <category name="ipojo1.4.0"/>
    </feature>
-   <feature url="features/Feature.Cadse.ipojo.sdk_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo.sdk" version="1.4.0.qualifier">
-      <category name="ipojo1.4"/>
+   <feature url="features/Feature.Cadse.Cadseg_2.2.1.200908261548.jar" id="Feature.Cadse.Cadseg" version="2.2.1.200908261548">
+      <category name="Cadse2.3"/>
    </feature>
-   <feature url="features/Feature.Cadse.Cadseg_2.2.0.qualifier.jar" id="Feature.Cadse.Cadseg" version="2.2.0.qualifier">
-      <category name="cadse2.2"/>
+   <feature url="features/Feature.Cadse.Cadseg.sdk_2.2.1.200908261548.jar" id="Feature.Cadse.Cadseg.sdk" version="2.2.1.200908261548">
+      <category name="Cadse2.3"/>
    </feature>
-   <feature url="features/Feature.Cadse.Cadseg.sdk_2.2.0.qualifier.jar" id="Feature.Cadse.Cadseg.sdk" version="2.2.0.qualifier">
-      <category name="cadse2.2"/>
+   <feature url="features/Feature.Cadse.ipojo.sdk_1.2.0.200908261548.jar" id="Feature.Cadse.ipojo.sdk" version="1.2.0.200908261548">
+      <category name="ipojo1.4.0"/>
    </feature>
-   <category-def name="cadse2.2" label="Cadse 2.2"/>
-   <category-def name="ipojo1.4" label="ipojo 1.4"/>
+   <category-def name="Cadse2.3" label="Cadse 2.3"/>
+   <category-def name="ipojo1.4.0" label="ipojo 1.4.0"/>
 </site>
