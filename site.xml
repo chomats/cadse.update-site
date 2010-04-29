@@ -21,10 +21,10 @@
    <feature url="features/Feature.Cadse.GraphicTests.sdk_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests.sdk" version="0.0.0">
       <category name="test"/>
    </feature>
-   <feature url="features/Feature.Cadse.GraphicTests.cadse_2.3.0.SNAPSHOT.jar" id="Feature.Cadse.GraphicTests.cadse" version="2.3.0.SNAPSHOT">
+   <feature url="features/Feature.Cadse.GraphicTests.cadse_2.3.0.SNAPSHOT.jar" id="Feature.Cadse.GraphicTests.cadse" version="0.0.0">
       <category name="test"/>
    </feature>
-   <feature url="features/Feature.Cadse.GraphicTests.cadse.sdk_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests.cadse.sdk" version="1.0.0.qualifier">
+   <feature url="features/Feature.Cadse.GraphicTests.cadse.sdk_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests.cadse.sdk" version="0.0.0">
       <category name="test"/>
    </feature>
    <category-def name="Cadse2.3" label="Cadse 2.3"/>
