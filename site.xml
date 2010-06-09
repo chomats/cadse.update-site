@@ -6,14 +6,23 @@
    <feature url="features/Feature.Cadse.ipojo_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo" version="0.0.0">
       <category name="ipojo1.4.0"/>
    </feature>
+   <feature url="features/Feature.Cadse.ipojo.source_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo.source" version="0.0.0">
+      <category name="ipojo1.4.0"/>
+   </feature>
    <feature url="features/Feature.Cadse.ipojo.sdk_1.4.0.qualifier.jar" id="Feature.Cadse.ipojo.sdk" version="0.0.0">
       <category name="ipojo1.4.0"/>
    </feature>
    <feature url="features/Feature.Cadse.Cadseg_2.3.0.qualifier.jar" id="Feature.Cadse.Cadseg" version="0.0.0">
       <category name="Cadse2.3"/>
    </feature>
+   <feature url="features/Feature.Cadse.Cadseg.source_2.3.0.qualifier.jar" id="Feature.Cadse.Cadseg.source" version="0.0.0">
+      <category name="Cadse2.3"/>
+   </feature>
    <feature url="features/Feature.Cadse.Cadseg.sdk_2.3.0.qualifier.jar" id="Feature.Cadse.Cadseg.sdk" version="0.0.0">
       <category name="Cadse2.3"/>
+   </feature>
+   <feature url="features/Feature.Cadse.GraphicTests.source_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests.source" version="0.0.0">
+      <category name="test"/>
    </feature>
    <feature url="features/Feature.Cadse.GraphicTests_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests" version="0.0.0">
       <category name="test"/>
@@ -22,6 +31,9 @@
       <category name="test"/>
    </feature>
    <feature url="features/Feature.Cadse.GraphicTests.cadse_2.3.0.SNAPSHOT.jar" id="Feature.Cadse.GraphicTests.cadse" version="0.0.0">
+      <category name="test"/>
+   </feature>
+   <feature url="features/Feature.Cadse.GraphicTests.cadse.source_2.3.0.SNAPSHOT.jar" id="Feature.Cadse.GraphicTests.cadse.source" version="0.0.0">
       <category name="test"/>
    </feature>
    <feature url="features/Feature.Cadse.GraphicTests.cadse.sdk_1.0.0.qualifier.jar" id="Feature.Cadse.GraphicTests.cadse.sdk" version="0.0.0">
